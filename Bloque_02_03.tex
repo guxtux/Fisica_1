@@ -1,0 +1,336 @@
+\documentclass[14pt]{beamer}
+\usepackage{./Estilos/BeamerUVM}
+\usepackage{./Estilos/ColoresLatex}
+\input{./Preambulos/preambulo_Beamer_Madrid_default}
+% \usefonttheme{serif}
+\usepackage[clock]{ifsym}
+
+\sisetup{per-mode=symbol}
+\resetcounteronoverlays{saveenumi}
+
+\title{\Large{Caída libre y tiro vertical} \\ \normalsize{Física I}}
+\date{4 de mayo de 2023}
+
+\begin{document}
+\maketitle
+
+\section*{Contenido}
+\frame{\frametitle{Contenido} \tableofcontents[currentsection, hideallsubsections]}
+
+
+\section{Caída libre}
+\frame{\tableofcontents[currentsection, hideothersubsections]}
+\subsection{Ejercicios}
+
+\subsection*{Ejercicio 2}
+
+\begin{frame}
+\frametitle{Enunciado del Ejercicio 2}
+Un niño deja caer una pelota desde una ventana de un edificio y tarda $\SI{3}{\second}$ en llegar al suelo. 
+\\
+\bigskip
+\pause
+¿Cuál es la altura del edificio?.
+\end{frame}
+\begin{frame}
+\frametitle{Datos en el enunciado}
+Revisamos que:
+\begin{eqnarray*}
+\begin{aligned}
+y_{0} &= \SI{0}{\meter} \\[0.5em] \pause 
+v_{i} &= \SI{0}{\meter\per\second} \\[0.5em] \pause
+t &= \SI{3}{\second} \\[0.5em] \pause
+a &= - g = - \SI{9.81}{\meter\per\square\second}
+\end{aligned}
+\end{eqnarray*}
+\end{frame}
+\begin{frame}
+\frametitle{Expresión a utilizar}
+De la expresión:
+\pause
+\begin{align*}
+y = y_{0} + v_{i} \, t + \dfrac{1}{2} \, a \, t^{2}
+\end{align*}
+Podemos conocer la altura del edificio, recuperando la distancia que recorre la pelota.
+\end{frame}
+\begin{frame}
+\frametitle{Sustituyendo los datos}
+Hacemos la correspondiente sustitución:
+\pause
+\begin{eqnarray*}
+\begin{aligned}
+y &= y_{0} + v_{i} \, t + \dfrac{1}{2} \, a \, t^{2} = \\[0.5em] \pause
+y &= 0 + (0) \, t + \dfrac{1}{2} \, (- g) \, t^{2} = \\[0.5em] \pause
+y &= - \dfrac{1}{2} \, g \, t^{2} = \pause - \dfrac{(\SI{9.81}{\meter\per\square\second}) (\SI{3}{\second})^{2}}{2} = \\[0.5em] \pause
+y &= - \dfrac{\SI{88.29}{\meter\square\second\per\square\second}}{2} = \pause - \SI{44.14}{\meter}
+\end{aligned}
+\end{eqnarray*}
+\end{frame}
+\begin{frame}
+\frametitle{¿Qué significa el signo negativo?}
+\begin{minipage}{0.5\linewidth}
+El resultado anterior
+\begin{align*}
+y = - \SI{44.14}{\meter}
+\end{align*}
+nos indica que la pelota está \SI{44.14}{\meter} \textocolor{byzantine}{por debajo del origen}.
+\end{minipage}
+\hspace{0.5cm}
+\begin{minipage}{0.4\linewidth}
+\begin{figure}
+    \centering
+    \begin{tikzpicture}
+        \draw (0, 0) -- (1, 0) -- (1 , -5) -- (0, -5);
+        \draw (1, -5) -- (2.5, -5);
+        \draw (1.4, 0) circle (4pt);
+        \draw (1.9, 0) -- (2.1, 0);
+        \draw [-stealth, <->] (2, 0) -- (2, -5) node [right, midway] {\small{$y$}};
+
+    \end{tikzpicture}
+\end{figure}
+\end{minipage}
+\end{frame}
+
+\subsection*{Ejercicio 3}
+
+\begin{frame}
+\frametitle{Enunciado del Ejercicio 3}
+Se deja caer un objeto desde un puente que está a \SI{80}{\meter} del suelo.
+\\
+\bigskip
+\pause
+¿Con qué velocidad el objeto se estrella contra el suelo?
+\end{frame}
+\begin{frame}
+\frametitle{Datos en el enunciado}
+\begin{eqnarray*}
+\begin{aligned}
+y_{i} &= \SI{80}{\meter} \\[0.5em] \pause 
+y_{f} & = 0 \\[0.5em] \pause 
+v_{i} &= 0 \\[0.5em] \pause
+a &= - g = -\SI{9.81}{\meter\per\square\second}
+\end{aligned}
+\end{eqnarray*}
+\end{frame}
+\begin{frame}
+\frametitle{Expresión a utilizar}
+De la expresión:
+\pause
+\begin{align*}
+v_{f}^{2} = v_{i}^{2} + 2 \, a \, (y_{f} - y_{i})
+\end{align*}
+\pause
+recuperamos el valor de la velocidad, no del cuadrado de la misma, \pause aplicamos la raíz cuadrada en ambos lados de la igualdad.
+\end{frame}
+\begin{frame}
+\frametitle{Expresión a utilizar}
+\begin{eqnarray*}
+\begin{aligned}
+v_{f}^{2} &= v_{i}^{2} + 2 \, a \, (y_{f} - y_{i}) \\[0.5em] \pause
+v_{f}^{2} &= v_{i}^{2} - 2 \, g \, (y_{f} - y_{i}) \\[0.5em] \pause
+\sqrt{v_{f}^{2}} &= \sqrt{v_{i}^{2} - 2 \, g \, (y_{f} - y_{i})} \\[0.5em] \pause
+v_{f} &= \sqrt{v_{i}^{2} - 2 \, g \, (y_{f} - y_{i})}
+\end{aligned}
+\end{eqnarray*}
+\end{frame}
+\begin{frame}
+\frametitle{Sustituimos los datos}
+Procedemos a sustituir los valores que conocemos:
+\pause
+\begin{eqnarray*}
+\begin{aligned}
+v_{f} &= \sqrt{v_{i}^{2} - 2 \, g \, (y_{f} - y_{i})} = \\[0.5em] \pause
+&= \sqrt{- 2 \, g \, (- y_{i})} = \pause \sqrt{ 2 \, g \, y_{i}} = \\[0.5em] \pause
+&= \sqrt{2 (\SI{9.81}{\meter\per\square\second}) (\SI{80}{\meter})} = \\[0.5em] \pause
+&= \sqrt{\SI{1569.6}{\square\meter\per\square\second}} = \pause \SI{39.61}{\meter\per\second}
+\end{aligned}
+\end{eqnarray*}
+\end{frame}
+
+\section{Tiro vertical}
+\frame{\tableofcontents[currentsection, hideothersubsections]}
+\subsection{Lanzamiento hacia arriba}
+
+\begin{frame}
+\frametitle{Entendiendo el lanzamiento}
+Si un cuerpo se lanza verticalmente hacia arriba, su velocidad disminuirá uniformemente hasta llegar a un punto en le cual queda momentáneamente en reposo y luego regresa nuevamente al punto de partida.
+\end{frame}
+\begin{frame}
+\frametitle{Tiempo en el aire}
+Se ha demostrado, que el tiempo que tarda un cuerpo en llegar al punto mas alto de su trayectoria, \pause es igual que tarda en regresar al punto de partida.
+\end{frame}
+\begin{frame}
+\frametitle{Tiempo en el aire}
+Esto nos dice que ambos movimientos son iguales y para su estudio se usan las mismas ecuaciones que en la caída libre, solo hay que definir el signo que tendrá $g$.
+\end{frame}
+
+\subsection{Ejemplos}
+
+\begin{frame}
+\frametitle{Ejercicio 1}
+Se lanza un proyectil verticalmente hacia arriba con una velocidad de $\SI{60}{\meter\per\second}$.
+\\
+\bigskip
+\pause
+¿Cuál es la altura máxima que alcanzará?
+\end{frame}
+\begin{frame}
+\frametitle{Datos que conocemos}
+\textbf{Datos:}
+\begin{eqnarray*}
+\begin{aligned}
+y_{0} &= \SI{0}{\meter} \pause \hspace{1.5cm} v_{i} = \SI{60}{\meter\per\second} \\[0.5em] \pause
+v_{f} &= \SI{0}{\meter\per\second} \hspace{1.5cm} -g = -\SI{9.81}{\meter\per\square\second}
+\end{aligned}
+\end{eqnarray*}
+\end{frame}
+\begin{frame}
+\frametitle{El objeto hacia arriba}
+\begin{figure}
+    \centering
+    \begin{tikzpicture}[scale=1.5]
+        \draw (-1, 0) -- (1.5, 0);
+        \draw (-0.5, 0) -- (-0.5, 3) node [left, pos=1] {\small{$y$}};
+        \draw [-stealth,<->] (0.7, 0) -- (0.7, 2.5) node [left,midway] {\small{$y$}};
+        \draw (0.5, 2.5) -- (0.9, 2.5);
+        \draw [fill] (1.25, 0.1) circle (3pt);
+        \draw [-stealth, thick] (1.25, 0.2) -- (1.25, 0.7);
+        \node at (1.7, 0.6) {\small{$v_{i}$}};
+        \node at (3.5, 1.5) {\small{$-g = -\SI{9.81}{\meter\per\square\second}$}};
+    \end{tikzpicture}
+\end{figure}
+\end{frame}
+\begin{frame}
+\frametitle{Entendiendo el problema}
+Revisemos que de las expresiones, no tenemos una en donde se recupere directamente la distancia que alcanza el proyectil.
+\end{frame}
+\begin{frame}
+\frametitle{Entendiendo el problema}
+Pero tenemos la siguiente expresión que involucra las cantidades que si conocemos:
+\pause
+\begin{align*}
+v_{f}^{2} = v_{i}^{2} + 2 \, a \, (y - y_{0})
+\end{align*}
+\pause
+en donde reconocemos que $v_{f}^{2} = 0$ en el punto donde el proyectil alcanza la altura máxima $y$.
+\end{frame}
+\begin{frame}
+\frametitle{Entendiendo el problema}
+Por lo tanto, tenemos que:
+\pause
+\begin{eqnarray*}
+\begin{aligned}
+0 &= v_{i}^{2} + 2 \, a \, (y - y_{0}) \\[0.5em] \pause
+0 &= v_{i}^{2} - 2 \, g \, (y - y_{0})
+\end{aligned}
+\end{eqnarray*}
+\end{frame}
+\begin{frame}
+\frametitle{Simplificamos la expresión}
+Manejamos la expresión con los datos conocidos:
+\pause
+\begin{eqnarray*}
+\begin{aligned}
+0 &= v_{i}^{2} - 2 \, g \, (y - y_{0}) \\[0.5em] \pause 
+v_{i}^{2} &= 2 \, g \, (y - y_{0}) \\[0.5em] \pause
+v_{i}^{2} &= 2 \, g \, y
+\end{aligned}
+\end{eqnarray*}
+\pause
+De esta expresión, nos queda despejar la variable $y$.
+\end{frame}
+\begin{frame}
+\frametitle{Despejando la variable}
+\begin{eqnarray*}
+\begin{aligned}
+v_{i}^{2} &= 2 \, g \, y = \\[0.5em] \pause
+y &= \dfrac{v_{i}^{2}}{2 \, g} = \pause \dfrac{(\SI{60}{\meter\per\second})^{2}}{2 (\SI{9.81}{\meter\per\square\second})} = \\[0.5em] \pause
+y &= \dfrac{\SI{3600}{\square\meter\per\square\second}}{\SI{19.62}{\meter\per\square\second}} = \pause \SI{183.48}{\meter}
+\end{aligned}
+\end{eqnarray*}
+\pause
+Que es la altura que alcanza el objeto cuando se lanza hacia arriba.
+\end{frame}
+\begin{frame}
+\frametitle{El objeto en su altura máxima}
+\begin{figure}
+    \centering
+    \begin{tikzpicture}[scale=1.5]
+        \draw (-1, 0) -- (1.5, 0);
+        \draw (-0.5, 0) -- (-0.5, 3) node [left, pos=1] {\small{$y$}};
+        \draw [-stealth,<->] (1.25, 0) -- (1.25, 2.5);
+        \node at (3, 2.5) {\small{$y = \SI{183.48}{\meter}$}};
+        \draw (1, 2.5) -- (1.4, 2.5);
+        \draw [fill] (0.7, 2.5) circle (3pt);
+        \draw [-stealth, thick] (0.7, 2.5) -- (0.7, 3);
+        \node at (1, 3) {\small{$v_{i}$}};
+        % \node at (3.5, 1.5) {\small{$-g = -\SI{9.81}{\meter\per\square\second}$}};
+    \end{tikzpicture}
+\end{figure}
+\end{frame}
+
+\subsection*{Ejercicio 2}
+
+\begin{frame}
+\frametitle{Enunciado del Ejercicio 2}
+Un cuerpo es lanzado verticalmente hacia arriba con una velocidad de $\SI{30}{\meter\per\second}$.
+\\
+\bigskip
+\pause
+¿Cuánto tiempo le tomará alcanzar su altura máxima?
+\end{frame}
+\begin{frame}
+\frametitle{El esquema del problema}
+\begin{figure}    
+    \centering
+    \begin{tikzpicture}[scale=1.5]
+        \draw (-1, 0) -- (1.5, 0);
+        \draw (-0.5, 0) -- (-0.5, 3) node [left, pos=1] {\small{$y$}};
+        \draw [-stealth,<->] (0.7, 0) -- (0.7, 2.5) node [left,midway] {\small{$y$}};
+        \draw (0.5, 2.5) -- (0.9, 2.5);
+        \draw [fill] (1.25, 0.1) circle (3pt);
+        \draw [dashed] (1.25, 2.5) circle (3pt);
+        \node at (1.3, 2.9) {\small{$v_{f} = 0$}};
+        % \draw [-stealth, dashed] (1.25, 2.6) -- (1.25, 3);
+        \draw [-stealth, thick] (1.25, 0.2) -- (1.25, 0.7);
+        \node at (1.7, 0.6) {\small{$v_{i}$}};
+        \node at (3.5, 1.5) {\small{$-g = -\SI{9.81}{\meter\per\square\second}$}};
+    \end{tikzpicture}
+\end{figure}
+\begin{tikzpicture}[overlay]
+    \node at (7, 5) {\Interval \, = ?};
+\end{tikzpicture}
+\end{frame}
+\begin{frame}
+\frametitle{Datos que conocemos}
+\textbf{Datos:}
+\pause
+\begin{eqnarray*}
+\begin{aligned}
+y_{0} &= \SI{0}{\meter} \hspace{1.5cm} v_{i} = \SI{30}{\meter\per\second} \\[0.5em] \pause
+v_{f} &= \SI{0}{\meter\per\second} \hspace{1.5cm} - g = - \SI{9.81}{\meter\per\square\second}
+\end{aligned}
+\end{eqnarray*}
+\end{frame}
+\begin{frame}
+\frametitle{Revisando el ejercicio}
+Nos encontramos nuevamente en el caso de que no tenemos una expresión directa para resolver el ejercicio, \pause pero podemos ocupar la siguiente expresión que considera la velocidad inicial, la aceleración debida a la gravedad y el tiempo:
+\pause
+\begin{align*}
+v_{f} = v_{i} - g \, t
+\end{align*}
+\end{frame}
+\begin{frame}
+\frametitle{Expresión de utilidad}
+De donde conocemos que la $v_{f}$ en el punto de la altura máxima vale $v = 0$, entonces:
+\pause
+\begin{eqnarray*}
+\begin{aligned}
+0 &= v_{i} - g \, t \\[0.5em] \pause
+v_{i} &=  g \, t \\[0.5em] \pause
+t &= \dfrac{v_{i}}{g} = \pause \dfrac{\SI{30}{\meter\per\second}}{\SI{9.81}{\meter\per\square\second}} = \pause \SI{3.05}{\second}
+\end{aligned}
+\end{eqnarray*}
+
+\end{frame}
+\end{document}
