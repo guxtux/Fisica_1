@@ -1,0 +1,20 @@
+La tabla solo presenta la información que se reconoce de la representación de los vectores, es decir, del esquema en la presentación, no se resuelven las componentes en el eje x y en el eje y de cada uno de los cuatro vectores.
+
+No corresponde al ejercicio que se indicó en la clase, ya que se consideran cuatro vectores, con sus respectivos ángulos.
+
+No queda claro lo que presentas, ya que en la clase indicamos el procedimiento para obtener cada una de las componentes en el eje x y para el eje y. Matemáticamente no puedes igualar la función seno a un valor, ya que en toda función trigonométrica, siempre se asocia un ángulo: seno a, coseno b, etc. Tienes valores pero no se reconoce a qué corresponden, debido a la falta de unidades.
+
+Cada vector se identifica con un subíndice, de esa manera es más sencillo identificar las operaciones. Es recomendable usar la tabla para identificar el cuadrante, el vector, la magnitud y el ángulo. Las componentes de cada vector están correctas. Muy bien!
+
+Te apoyas con el diagrama, eso es muy bueno, ya que puedes identificar que las componentes en el eje x de los vectores F3 y F4, apuntan en el eje x negativo, por lo que hay que indicar ese signo, la componente en el eje y de los vectores F3 y F4 también apuntan en dirección del eje y negativo, por lo que llevarían un signo menos. 
+
+Hiciste una revisión previa para cada vector, para identificar en qué cuadrante se encuentran y así, asociar el signo negativo donde corresponda para las componentes en el eje x y en el eje y. Muy bien!
+
+Comienza bien tu trabajo, ya que haces una revisión previa de cada vector para calcular la componente en el eje x y en el eje y, pero para el inciso II) de acuerdo a tu esquema, no puedes obtener un valor negativo para la componente en el eje x del vector, ya que en tu diagrama está en el cuadrante I, si revisas el ejercicio en la presentación, verás que el vector está en el cuadrante II y por lo tanto la componente en el eje x, si llevaría signo negativo. Espero que la solución que presentas haya sido de elaboración propia.
+
+Detalles:
+1) El sistema que estás presentando no es el que se dejó como ejercicio, revisa la presentación.
+2) De acuerdo a tu desarrollo, solo tendrías un ángulo 30 grados, lo que cambia es la magnitud del vector.
+3) Cada componente del vector maneja las mismas unidades del vector inicial, es decir, si cada vector representa una fuerza en Newtons, cada componente tiene como unidades Newtons, no grados, revisa bien esta parte.
+
+Comienza bien tu trabajo, ya que haces una revisión previa de cada vector para calcular la componente en el eje x y en el eje y, pero para el vector con magnitud 17 N, 88 N y 23 N que presentas, no corresponden a los  que se dejaron en el ejercicio, en la presentación se dejó un esquema con la orientación que deberías de haber ocupado, la presentación se dejó publicada para que la tuvieran como material de consulta.

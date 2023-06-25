@@ -1,0 +1,20 @@
+\documentclass[margin=5mm, tikz]{standalone}
+\usepackage{../Estilos/ColoresLatex}
+\usepackage[utf8x]{inputenc}
+\usepackage{tikz}
+\usepackage{siunitx}
+\usepackage{physics}
+\begin{document}
+\begin{tikzpicture}[scale=1]
+    \draw (-4, 0) -- (9, 0) node [above, pos=1] {$x$};
+    \draw (0, -4) -- (0, 6) node [left, pos=1] {$y$};
+    \draw [-stealth, thick, color=blue] (0, 0) -- (8, 0) node [below, midway] {$\va{F}_{1} = \SI{8}{\newton}$};
+    \draw [-stealth, thick, color=burgundy] (0, 0) -- (4.59, 3.85) node [above, near end, rotate=40] {$\va{F}_{2} = \SI{6}{\newton}$};
+    \draw [color=burgundy] (0.5, 0) arc(0:40:0.5);
+    \node [color=burgundy] at (2, 0.3) {$\theta_{2} = \ang{40}$};
+    \draw [-stealth, thick, color=cerise] (0, 0) -- (-2.59, -1.5) node [below, near end, rotate=30] {$\va{F}_{3} = \SI{3}{\newton}$};
+    \draw [color=cerise] (-0.5, 0) arc(180:210:0.5);
+    \node [color=cerise] at (-2,- 0.3) {$\theta_{3} = \ang{30}$};
+    \draw [-stealth, thick, color=byzantine] (0, 0) -- (0, 5) node [left, near end] {$\va{F}_{4} = \SI{5}{\newton}$};
+\end{tikzpicture}
+\end{document}

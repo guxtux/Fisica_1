@@ -1,0 +1,299 @@
+Bárbara Alcalá:
+El objetivo de la práctica propiamente es estimar el valor de la aceleración debida a la gravedad, es decir, el valor de g.
+
+La práctica considera dos métodos:
+a) Mediante las oscilaciones de un péndulo.
+b) Registrando la caída libre de un objeto.
+
+En tu objetivo mencionas "...diferentes medidas de velocidad", pero no señalas qué objeto es el que se mueve.
+
+En el desarrollo del experimento 1, no indicas la manera en qué midieron y sujetaron el hilo al soporte y a la pesa, ya que tuvieron que anudarlo, lo que les redujo la longitud del hilo.
+
+En el experimento 2, ¿en qué usaron la masa de 50 gramos? Si bien comentas la manera en que se organizaron, habría que aclarar el procedimiento como tal, es decir, que quien dejó caer la moneda, lo hizo de esta manera, cómo fue el que se activó el cronómetro, cómo se detuvo, etc.
+
+Aunque no se señala en el manual el renglón para incluir el valor de g calculada, se debe de obtener, ya que el manual sí indica la expresión a partir de la cual se despeja el valor de g, tomando como valores que si conocemos, la altura y el tiempo registrado. Este valor nos permitiría comparar el procedimiento con el de las oscilaciones.
+
+Revisa con cuidado las conclusiones:
+1) La variación en el cálculo de g, depende solamente de la longitud del hilo, punto que no mencionas, pero NO depende de la masa del objeto, esto lo conoces por que la expresión que se indica en el manual, así lo señala, y como hiciste una revisión previa, en esa revisión, claramente encontraste que las oscilaciones no dependen de la masa del objeto.
+
+La pregunta "¿A qué se debe que se pueda calcular el valor de la gravedad con movimiento pendular?" se refiere más bien, a responder si el péndulo es un sistema del que podamos confiar para medir el valor de g, la respuesta a la pregunta es: podemos calcular el valor de g con el péndulo por que es un sistema del que podemos controlar las oscilaciones y suponer que son estables, es decir, el péndulo oscila de manera natural y periódica.
+
+Siguiendo la redacción de tu objetivo, como tal, no mediste diferentes velocidades, debemos de enfocarnos a lo que se trabajó en cada actividad, habría que comparar los valores de g que se calcularon y discutir el por qué son tan distintos entre sí, y si alguno de ellos se acerca al valor conocido, y preguntarse ¿por qué hay valores tan alejados?, para entonces, responder la pregunta.
+
+Calificación: 8 ocho.
+
+Emiliano López.
+
+En el Manual se pide que anotes el objetivo de la práctica, por que de esa manera, al final de la misma y en el reporte podrán revisar si se alcanzó o no el objetivo.
+
+Te recomiendo que sigas la estructura del Manual para identificar Experimento 1 y Experimento 2, quedará más claro.
+
+El que tengas el Manual te ayuda para que captures los registros, es válido que te apoyes con fotografías, pero en el reporte te pido por favor que hagas las tablas necesarias.
+
+Para el experimento 2, falta calcular el valor de g, si bien es cierto que en el Manual le falta el renglón, si conoces la expresión que se indica, y recuerda, es el objetivo principal de la práctica, estimar el valor de la aceleración debida a la gravedad.
+
+Tanto en tu discusión como en conclusiones, mencionas que "faltó tiempo", recuerda que ya habíamos indicado la manera en que debían de trabajar, por lo que tiempo suficiente tuvieron, que la organización del equipo para el trabajo en la sesión les llevó más en coordinarse, ya es otro punto. Cuando mencionas que "... los datos logrados están bien", ¿cómo es la comparación? ¿Alguno de ellos se aproxima a 9.81 m/s^2? Esa es la parte que hay que discutir.
+
+Calificación 8 (ocho) 
+
+Fátima Vázquez.
+
+En la parte inicial del reporte menciona el valor de g, pero le hacen falta las unidades de aceleración.
+
+No anotaste la redacción del objetivo de la práctica, siendo el punto más relevante de la misma.
+
+La parte del método está bien, ya que muestra la organización del equipo, aquí es donde debes de incluir las tablas con los datos que registraron, ya que en la siguiente parte de Resultados, no hay manera de revisar cómo que consideras que "...los datos obtenidos fueron bastante aproximados", ¿se acercan al valor de 9.81 m/s^2?
+
+Si bien mencionas que el hilo pudo haber sido una complicación, ¿hubo algunos otros factores que habrán interferido? Esa respuesta a la pregunta, es parte de la discusión, pueden plantear más preguntas de manera abierta.
+
+Calificación 7. La nota se toma en consideración ya que la Práctica consiste en dos partes, el Experimento 1 que fue medir el valor de g con un péndulo en el Laboratorio y el Experimento 2, que fueron las mediciones en el patio.
+
+Karhiv Gasca.
+
+Siguiendo las indicaciones en el manual, faltó agregar el objetivo de la práctica: Estimar el valor de la aceleración debida a la gravedad g.
+
+Te recomiendo que sigas el formato del manual para indicar qué experimento estás mencionando:
+
+Experimento 1: ....
+
+
+Experimento 2: ....
+
+Si bien se pueden apoyar con el uso de fotografías para el registro del montaje, trabajo en la sesión, etc. Por esta ocasión dentro de un reporte te acepto el uso de fotos, pero debes de anotar los datos ya sea en tabla, lista, etc. por que de esa manera, le permites al lector una mayor claridad.
+
+Cuando mencionas que los datos que "lograron están casi del todo bien", ¿es con respecto al valor de g? por que entonces habría que revisar si se aproximan al valor conocido. Esa parte es en donde deben de revisar qué situaciones se les presentaron: midieron cada hilo de tal longitud, pero para sujetarlo a la varilla y a la masa, se recortó un tanto, y en la expresión el valor de L ya no es el que se esperaba, etc.
+
+Identificas situaciones que pueden mejorar el experimento, como buscar un punto más accesible para las mediciones, por ejemplo, así también es muy válido tu comentario sobre utilizar equipo más adecuado, ya que de esta manera, al modificar esos detalles, la práctica será más atractiva para el grupo.
+
+Calificación: 8 (ocho)
+
+María Jiménez Aguilar.
+
+Siguiendo el formato del manual, faltaría indicar el objetivo de la práctica.
+
+En la descripción de cada experimento, haces una buena relatoría de los pasos que siguieron. En los resultados, es cierto que en el manual no se indica el renglón para el cálculo de g, a partir de la caída libre, pero si se menciona la expresión, y recordando que es el objetivo de la práctica, habría que anotar esos datos.
+
+La parte de Discusión y Resultados es pertinente, ya que mencionas que los resultados no se aproximan al valor esperado, reconociendo que hubo fuentes que favorecieron una diferencia, esa parte es la más relevante de un trabajo de laboratorio.
+
+Calificación: 9 (nueve)
+
+Emiliano Martínez Zenteno.
+
+Siguiendo el formato del manual, faltaría indicar el objetivo de la práctica: Estimar el valor de la aceleración debida a la gravedad, g.
+
+En tu desarrollo, como bien mencionas, hicieron medición de trozos de hilo de cierta longitud, pero comentas que anudaron el hilo al soporte y a la pesa, por lo que la longitud de ese hilo se recortó, y si utilizaron el valor inicial del hilo como el valor de L, para la expresión, entonces ya sería un valor de L más corto. ¿Qué pasó con los registros del péndulo que se les pidió para medir en el patio?
+
+Por esta única ocasión, se te reciben datos con fotografías, el manual les indica la mejor manera de hacer los registros, pero en un reporte se debe de ver el trabajo completo de análisis, lo que te apoyará para la discusión y resultados.
+
+Si bien es cierto que en el manual no se anotó un renglón para que con las mediciones de caída libre, se obtuviera el valor de g, si tenían la expresión por lo que entonces, faltó ese cálculo.
+
+Tanto la Discusión como Conclusión son muy breves, cuando habría que comentar el por qué consideras que los valores difieren tanto del valor de g, o si hay alguno más cercano, etc.
+
+Calificación: 8 (ocho)
+
+María Fernanda Guevara.
+
+Siguiendo el formato del manual, faltaría indicar el objetivo de la práctica: Estimar el valor de la aceleración debida a la gravedad, g.
+
+En tu desarrollo, como bien mencionas, hicieron medición de trozos de hilo de cierta longitud, pero comentas que anudaron el hilo al soporte y a la pesa, por lo que la longitud de ese hilo se recortó, y si utilizaron el valor inicial del hilo como el valor de L, para la expresión, entonces ya sería un valor de L más corto. ¿Qué pasó con los registros del péndulo que se les pidió para medir en el patio?
+
+Por esta única ocasión, se te reciben datos con fotografías, el manual les indica la mejor manera de hacer los registros, pero en un reporte se debe de ver el trabajo completo de análisis, lo que te apoyará para la discusión y resultados.
+
+Si bien es cierto que en el manual no se anotó un renglón para que con las mediciones de caída libre, se obtuviera el valor de g, si tenían la expresión por lo que entonces, faltó ese cálculo.
+
+Tanto la Discusión como Conclusión son muy breves, cuando habría que comentar el por qué consideras que los valores difieren tanto del valor de g, o si hay alguno más cercano, etc.
+
+Se pidió un reporte individual, parte de tu trabajo es idéntico a otro reporte, no precisamente lo que son los datos que anotaron.
+
+Calificación: 8 (ocho)
+
+Melanie Robles.
+
+El objetivo de la práctica, luego de responder las preguntas y leer la introducción, vemos que corresponde a "Estimar el valor de la aceleración debida a la gravedad, g", mencionas que se van a estudiar dos objetos con masas muy distintas, ¿cuáles son esos objetos en la práctica?
+
+En la medición de g con el péndulo, se les indicó que debían de incluir los datos que se registraron en el patio. Si bien los presentas más adelante, hay que agrupar esos registros y presentarlos dentro del Experimento 1.
+
+En el Experimento 2, señalas la altura del piso 1 y del piso 2, pero luego hay otros valores que son distintos: 7.71 metros y ¿72.74 metros?
+
+En tu Discusión cuando mencionas que hay una buena aproximación al valor de g, ¿qué tan buenas son las aproximaciones a 9.81 m/s^2? esa parte es la que te permitirá entonces reconocer las diferencias y por lo tanto, interpretar el por qué hay variaciones, cuáles son las fuentes de error, cómo se pudieron haber corregido, etc.
+
+Tu trabajo de reporte es muy completo, te felicito. Solo hay varios puntos que atender para los siguientes reportes.
+
+Calificación: 9 (nueve)
+
+Michelle Romero.
+
+Siguiendo el formato del manual, faltaría indicar el objetivo de la práctica: Estimar el valor de la aceleración debida a la gravedad, g.
+
+En tu desarrollo habría que extender un poco más el trabajo que hicieron, en el caso del péndulo: ¿cómo definieron la amplitud de oscilación? ¿La longitud L del hilo realmente fue de 20cm, 60 cm. etc? ya que tuvieron que anudar los extremos. En el caso de la caída libre, cómo registraron el momento en qué se soltó la moneda, cómo fue el registro cuando tocó el piso, etc.
+
+¿Qué pasó con los registros del péndulo que se les pidió para medir en el patio?
+
+Si bien es cierto que en el manual no se anotó un renglón para que con las mediciones de caída libre, se obtuviera el valor de g, si tenían la expresión por lo que entonces, faltó ese cálculo.
+
+Faltaron las secciones de Discusión y Conclusiones.
+
+Calificación: 7 (siete
+
+Nicole Alejandri.
+
+El objetivo de la práctica propiamente es "Estimar el valor de la aceleración debida a la gravedad", se ocuparon dos métodos: con las oscilaciones de un péndulo y con el registro de caída libre.
+
+El manual indica que se debían de hacer dos Experimentos, y lo que encuentro en tu reporte es solo la parte del Experimento 2.
+
+Un reporte que solo incluya una parte de toda la práctica les resta puntaje, te pido por favor que consideres el trabajo completo, y así tener una buena calificación.
+
+En el Experimento 2, se les pidió que tuvieran a la mano 10 monedas para lanzar desde cada piso, mencionas que solo lanzaron 5 ¿por qué sucedió esto? ¿cuántas monedas se lanzaron en realidad?
+
+Tanto la Discusión como Conclusión son muy breves, cuando habría que comentar el por qué consideras que los valores difieren tanto del valor de g, o si hay alguno más cercano, etc.
+
+Calificación: 7 (siete)
+
+Ricardo Márquez.
+
+Siguiendo las indicaciones en el manual, faltó agregar el objetivo de la práctica: Estimar el valor de la aceleración debida a la gravedad g.
+
+Te recomiendo que sigas el formato del manual para indicar qué experimento estás mencionando:
+
+Experimento 1: ....
+
+
+Experimento 2: ....
+
+Si bien se pueden apoyar con el uso de fotografías para el registro del montaje, trabajo en la sesión, etc. Por esta ocasión dentro de un reporte te acepto el uso de fotos, pero debes de anotar los datos ya sea en tabla, lista, etc. por que de esa manera, le permites al lector una mayor claridad.
+
+Cuando mencionas que los datos que "lograron están casi del todo bien", ¿es con respecto al valor de g? por que entonces habría que revisar si se aproximan al valor conocido. Esa parte es en donde deben de revisar qué situaciones se les presentaron: midieron cada hilo de tal longitud, pero para sujetarlo a la varilla y a la masa, se recortó un tanto, y en la expresión el valor de L ya no es el que se esperaba, etc.
+
+Identificas situaciones que pueden mejorar el experimento, como buscar un punto más accesible para las mediciones, al modificar esos detalles, la práctica será más atractiva para el grupo.
+
+Calificación: 8 (ocho)
+
+Sebastián Lozano.
+
+Siguiendo el formato del manual, faltaría indicar el objetivo de la práctica: Estimar el valor de la aceleración debida a la gravedad, g.
+
+En tu desarrollo, como bien mencionas, hicieron medición de trozos de hilo de cierta longitud, pero comentas que anudaron el hilo al soporte y a la pesa, por lo que la longitud de ese hilo se recortó, y si utilizaron el valor inicial del hilo como el valor de L, para la expresión, entonces ya sería un valor de L más corto. ¿Qué pasó con los registros del péndulo que se les pidió para medir en el patio?
+
+Por esta única ocasión, se te reciben datos con fotografías, el manual les indica la mejor manera de hacer los registros, pero en un reporte se debe de ver el trabajo completo de análisis, lo que te apoyará para la discusión y resultados.
+
+Si bien es cierto que en el manual no se anotó un renglón para que con las mediciones de caída libre, se obtuviera el valor de g, si tenían la expresión por lo que entonces, faltó ese cálculo.
+
+Tanto la Discusión como Conclusión son muy breves, cuando habría que comentar el por qué consideras que los valores difieren tanto del valor de g, o si hay alguno más cercano, etc.
+
+Se pidió un reporte individual, parte de tu trabajo es idéntico a otro reporte, no precisamente lo que son los datos que anotaron.
+
+Calificación: 8 (ocho)
+
+Sofía Alarcón.
+
+Siguiendo el formato del manual, faltaría indicar el objetivo de la práctica: Estimar el valor de la aceleración debida a la gravedad, g.
+
+Te recomiendo que sigas el formato del manual para indicar qué experimento estás mencionando:
+
+Experimento 1: ....
+
+Experimento 2: ....
+
+Si bien se pueden apoyar con el uso de fotografías para el registro del montaje, trabajo en la sesión, etc. Por esta ocasión dentro de un reporte te acepto el uso de fotos, pero debes de anotar los datos ya sea en tabla, lista, etc. por que de esa manera, le permites al lector una mayor claridad.
+
+En tu Discusión y Conclusión presentas argumentos válidos y que es lo que precisamente se busca, que haya una reflexión de lo que se hizo, cómo se hizo, y el por qué no se obtuvo lo que se esperaba.
+
+Calificación: 8 (ocho)
+
+Valeria Solís.
+
+Siguiendo el formato del manual, faltaría indicar el objetivo de la práctica: Estimar el valor de la aceleración debida a la gravedad, g.
+
+Por esta única ocasión, se te reciben datos con fotografías, el manual les indica la mejor manera de hacer los registros, pero en un reporte se debe de ver el trabajo completo de análisis, lo que te apoyará para la discusión y resultados.
+
+Si bien es cierto que en el manual no se anotó un renglón para que con las mediciones de caída libre, se obtuviera el valor de g, si tenían la expresión por lo que entonces, faltó ese cálculo.
+
+No se incluye la parte de discusión, en las conclusiones aunque son breves, comentas que hubo dificultades, pero luego haces dos comentarios en el sentido de que consideras que la gravedad cambia, cuando en realidad es un valor constante, por lo que si apreciamos una variante en los resultados, no son debidos a g, sino a otras razones, que es lo que se espera que analicen e interpreten.
+
+Comentario relevante: el formato en el que presentas tu reporte Canva, tiene un detalle, debes de garantizar que la liga esté vigente, se pueda abrir el enlace, ya que de lo contrario, nos dejarías sin oportunidad de la revisión.
+
+Calificación: 8 (ocho)
+
+Víctor Daniel Gónzalez.
+
+Siguiendo el formato del manual, faltaría indicar el objetivo de la práctica: Estimar el valor de la aceleración debida a la gravedad, g.
+
+Por esta única ocasión, se te reciben datos con fotografías, el manual les indica la mejor manera de hacer los registros, pero en un reporte se debe de ver el trabajo completo de análisis, lo que te apoyará para la discusión y resultados.
+
+La parte de Discusión y Resultados es pertinente, ya que mencionas que los resultados no se aproximan al valor esperado, reconociendo que hubo fuentes que favorecieron una diferencia, esa parte es la más relevante de un trabajo de laboratorio.
+
+Se pidió un reporte individual, parte de tu trabajo es idéntico a otro reporte
+
+Calificación: 7 (siete) Recuerda que el reporte incluye dos Experimentos.
+
+Víctor Santiago González.
+
+Siguiendo el formato del manual, faltaría indicar el objetivo de la práctica: Estimar el valor de la aceleración debida a la gravedad, g.
+
+Las respuestas a las preguntas deben de quedar claras, ya que en una explicación, tu oración no aparece completa, por lo que no permite entenderla.
+
+La descripción del procedimiento es muy general y muy breve. Por esta única ocasión, se te reciben datos con fotografías, el manual les indica la mejor manera de hacer los registros, pero en un reporte se debe de ver el trabajo completo de análisis, lo que te apoyará para la discusión y resultados.
+
+Calificación: 7 (siete) Recuerda que el reporte incluye dos Experimentos.
+
+Camila Rivas.
+
+Siguiendo el formato del manual, faltaría indicar el objetivo de la práctica: Estimar el valor de la aceleración debida a la gravedad, g.
+
+En tu desarrollo, como bien mencionas, hicieron medición de trozos de hilo de cierta longitud, pero comentas que anudaron el hilo al soporte y a la pesa, por lo que la longitud de ese hilo se recortó, y si utilizaron el valor inicial del hilo como el valor de L, para la expresión, entonces ya sería un valor de L más corto. ¿Qué pasó con los registros del péndulo que se les pidió para medir en el patio?
+
+Por esta única ocasión, se te reciben datos con fotografías, el manual les indica la mejor manera de hacer los registros, pero en un reporte se debe de ver el trabajo completo de análisis, lo que te apoyará para la discusión y resultados.
+
+Si bien es cierto que en el manual no se anotó un renglón para que con las mediciones de caída libre, se obtuviera el valor de g, si tenían la expresión por lo que entonces, faltó ese cálculo.
+
+Tanto la Discusión como Conclusión son muy breves, cuando habría que comentar el por qué consideras que los valores difieren tanto del valor de g, o si hay alguno más cercano, etc.
+
+Se pidió un reporte individual, parte de tu trabajo es idéntico a otro reporte, no precisamente lo que son los datos que anotaron.
+
+Calificación: 8 (ocho)
+
+Dominick Moreno.
+
+En tu primer envío, el documento no contenía más que la carátula, por lo que se te solicitó que reenviases el mismo documento, pensando que no lo habías guardado debidamente. En tu segundo envío, el documento es completamente distinto, se identifica que lo generaste ayer al mediodía, y no contiene los elementos solicitados para el reporte que se indicaron en la clase. Faltan todas las mediciones de los dos experimentos, recuerda que se utilizaron dos estrategias para calcular el valor de la aceleración debida a la gravedad: con el péndulo y con la caída libre de monedas.
+
+Esto pone en evidencia que no tenías el reporte preparado. Se te califica sobre 8/10, debido a la entrega extemporánea, la evaluación del reporte es 5 (cinco), por lo que tu calificación del reporte de la Práctica 6 de Laboratorio es 4 (cuatro)
+
+Melodi Reyes.
+
+El reporte no contiene los elementos solicitados que se indicaron en la clase. Faltan todas las mediciones de los dos experimentos, recuerda que se utilizaron dos estrategias para calcular el valor de la aceleración debida a la gravedad: con el péndulo y con la caída libre de monedas.
+
+A pesar de contar con el manual de Prácticas, que comentamos, sería la guía para desarrollar el reporte, no hay evidencia de que te hayas apoyado con ese manual.
+
+Te recomiendo que tan pronto tengan datos en cualquier otra práctica, comiences a trabajar en el reporte, así tu evaluación será mejor. Se te califica sobre 8/10, debido a la entrega extemporánea, la evaluación del reporte es 5 (cinco), por lo que tu calificación del reporte de la Práctica 6 de Laboratorio es 4 (cuatro)
+
+Natalia Ramos.
+
+Siguiendo el formato del manual, faltaría indicar el objetivo de la práctica: Estimar el valor de la aceleración debida a la gravedad, g.
+
+En tu desarrollo, como bien mencionas, hicieron medición de trozos de hilo de cierta longitud, pero comentas que anudaron el hilo al soporte y a la pesa, por lo que la longitud de ese hilo se recortó, y si utilizaron el valor inicial del hilo como el valor de L, para la expresión, entonces ya sería un valor de L más corto. ¿Qué pasó con los registros del péndulo que se les pidió para medir en el patio?
+
+Por esta única ocasión, se te reciben datos con fotografías, el manual les indica la mejor manera de hacer los registros, pero en un reporte se debe de ver el trabajo completo de análisis, lo que te apoyará para la discusión y resultados.
+
+Si bien es cierto que en el manual no se anotó un renglón para que con las mediciones de caída libre, se obtuviera el valor de g, si tenían la expresión por lo que entonces, faltó ese cálculo.
+
+Tanto la Discusión como Conclusión son muy breves, cuando habría que comentar el por qué consideras que los valores difieren tanto del valor de g, o si hay alguno más cercano, etc.
+
+Se pidió un reporte individual, parte de tu trabajo es idéntico a otro reporte, no precisamente lo que son los datos que anotaron.
+
+Se te calificará sobre 8/10 por la entrega extemporánea, la evaluación de tu reportes es de 8 (ocho), por lo que la calificación del reporte de Laboratorio es: 6.4 (seis punto cuatro)
+
+Abril Ramírez.
+
+Siguiendo el formato del manual, faltaría indicar el objetivo de la práctica: Estimar el valor de la aceleración debida a la gravedad, g.
+
+En tu desarrollo, como bien mencionas, hicieron medición de trozos de hilo de cierta longitud, pero comentas que anudaron el hilo al soporte y a la pesa, por lo que la longitud de ese hilo se recortó, y si utilizaron el valor inicial del hilo como el valor de L, para la expresión, entonces ya sería un valor de L más corto. ¿Qué pasó con los registros del péndulo que se les pidió para medir en el patio?
+
+Por esta única ocasión, se te reciben datos con fotografías, el manual les indica la mejor manera de hacer los registros, pero en un reporte se debe de ver el trabajo completo de análisis, lo que te apoyará para la discusión y resultados.
+
+Si bien es cierto que en el manual no se anotó un renglón para que con las mediciones de caída libre, se obtuviera el valor de g, si tenían la expresión por lo que entonces, faltó ese cálculo.
+
+Tanto la Discusión como Conclusión son muy breves, cuando habría que comentar el por qué consideras que los valores difieren tanto del valor de g, o si hay alguno más cercano, etc.
+
+Se pidió un reporte individual, parte de tu trabajo es idéntico a otro reporte, no precisamente lo que son los datos que anotaron.
+
+Se te calificará sobre 8/10 por la entrega extemporánea, la evaluación de tu reportes es de 8 (ocho), por lo que la calificación del reporte de Laboratorio es: 6.4 (seis punto cuatro)

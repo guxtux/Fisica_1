@@ -1,0 +1,16 @@
+\documentclass[margin=5mm, tikz]{standalone}
+%\usepackage{../Estilos/ColoresLatex}
+\usepackage[utf8x]{inputenc}
+\usepackage{tikz}
+\usepackage{physics}
+\usepackage{siunitx}
+\begin{document}
+\begin{tikzpicture}
+  \draw [-stealth, thick] (0, 0) -- (3, 3) node [midway, above] {$\va{P}$};
+  \draw [dashed] (-1, -1) -- (4, 4); 
+  \draw (0, 0) -- (2, 0);
+  \draw (0.5, 0) arc(0:30:0.8);
+  \node at (0.8, 0.2) {$\theta$};
+  \node at (5.5, 4) {\small{Línea de acción}};
+\end{tikzpicture}
+\end{document}

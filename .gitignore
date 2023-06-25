@@ -263,3 +263,10 @@ TSWLatexianTemp*
 
 # standalone packages
 *.sta
+
+Aclaraciones/*.pdf
+Envios Teams Laboratorio/*
+Evaluaciones/*
+EvalContinua/*.*
+Evaluacion_Continua/
+Laboratorio/*.*

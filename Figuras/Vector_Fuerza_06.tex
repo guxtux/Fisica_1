@@ -1,0 +1,28 @@
+\documentclass[margin=5mm, tikz]{standalone}
+\usepackage{../Estilos/ColoresLatex}
+\usepackage[utf8x]{inputenc}
+\usepackage{tikz}
+\usepackage{siunitx}
+\usepackage{physics}
+\begin{document}
+\begin{tikzpicture}[scale=1]
+    \draw (-4, 0) -- (9, 0) node [above, pos=1] {$x$};
+    \draw (0, -4) -- (0, 6) node [left, pos=1] {$y$};
+    \draw [-stealth, thick, color=blue] (0, 0) -- (8, 0) node [below, midway] {\small{$\va{F}_{1}$}};
+
+    \draw [-stealth, thick, color=burgundy] (0, 0) -- (4.59, 3.85) node [above, near end, rotate=40] {\small{$\va{F}_{2}$}};
+    \draw [color=burgundy] (0.5, 0) arc(0:40:0.5);
+    \node [color=burgundy] at (1.6, 0.4) {\small{$\theta_{2}$}};
+
+    \draw [-stealth, thick, color=cerise] (0, 0) -- (-2.59, -1.5) node [below, near end, rotate=30] {\small{$\va{F}_{3}$}};
+    \draw [color=cerise] (-0.5, 0) arc(180:210:0.5);
+    \node [color=cerise] at (-1.8,- 0.4) {\small{$\theta_{3}$}};
+
+    \draw [-stealth, thick, color=byzantine] (0, 0) -- (0, 5) node [left, near end] {\small{$\va{F}_{4}$}};
+    
+    \draw [-stealth, thick, color=cadmiumred] (0, 0) -- (9.69, 7.35) node [above, near end, rotate=37] {\small{$\va{F}_{R} = \SI{12.16}{\newton}$}};
+    \draw [thick, color=cadmiumred] (3, 0) arc(0:37:3);
+    \node [color=cadmiumred] at (5, 0.8) {\small{$\theta_{R} = \ang{37.18}$}};
+
+\end{tikzpicture}
+\end{document}

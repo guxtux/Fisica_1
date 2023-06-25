@@ -1,0 +1,27 @@
+\documentclass[margin=5mm, tikz]{standalone}
+\usepackage{../Estilos/ColoresLatex}
+\usepackage[utf8x]{inputenc}
+\usepackage{tikz}
+\usepackage{siunitx}
+\begin{document}
+
+  \begin{tikzpicture}[scale=0.5]
+  \draw (-4, 0) -- (5, 0);
+  \draw (0, -9) -- (0, 5);
+  \draw [-stealth, thick, color=carmine] (0, 0) -- (4.17, 4.17) node [above, pos=1] {\small{$F_{1} = \SI{59}{\newton}$}};
+  \draw [color=carmine] (0.5, 0) arc(0:45:0.5);
+  \node at (2.5, 0.3) [color=carmine] {\small{$\theta_{1} = \ang{45}$}};
+
+  \draw [-stealth, thick, color=electricindigo] (0, 0) -- (1.97, -1.18) node [above, xshift=0.8cm, yshift=-0.7cm] {\small{$F_{2} = \SI{23}{\newton}$}};
+  \draw [color=electricindigo] (0.5, 0) arc(360:329:0.5);
+  \node at (2.8, -0.5) [color=electricindigo] {\small{$\theta_{2} = \ang{31}$}};
+  
+  \draw [-stealth, thick, color=officegreen] (0, 0) -- (-0.919, -8.75) node [left, midway] {\small{$F_{3} = \SI{88}{\newton}$}};
+  \draw [color=officegreen] (-0.5, 0) arc(180:264:0.5);
+  \node at (-2, -0.5) [color=officegreen] {\small{$\theta_{3} = \ang{84}$}};
+
+  \draw [-stealth, thick, color=persimmon] (0, 0) -- (-0.745, 1.52) node [above, xshift=-1cm, yshift=-0.2cm] {\small{$F_{4} = \SI{17}{\newton}$}};
+  \draw [thick, color=persimmon] (-0.5, 0) arc(180:116:0.5);
+  \node at (-2, 0.5) [color=persimmon] {\small{$\theta_{4} = \ang{64}$}};
+\end{tikzpicture}
+\end{document}
